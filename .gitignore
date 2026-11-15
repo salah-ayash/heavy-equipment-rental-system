@@ -1,0 +1,43 @@
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio user files
+*.suo
+*.user
+*.vcxproj.user
+*.VC.db
+
+# C++ compiled files
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.ipch
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+credentials.json
+config.local.*
+
+# Database backups
+*.bak
+*.dump
+backups/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Third-party DLL files
+*.dll
+mysql.h
