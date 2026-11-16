@@ -170,7 +170,7 @@ C++ · Object-Oriented Programming · MySQL · Relational Database Design · SQL
 **Salah Ayash**  
 Computer Science Graduate · Universiti Teknikal Malaysia Melaka (UTeM)
 
-[**GitHub Profile**](https://github.com/salah804)
+[**GitHub Profile**](https://github.com/salah-ayash)
 
 ---
 
